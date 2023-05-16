@@ -1,0 +1,7 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{781dfe5a-0602-4a54-8af6-1907f3bd7d89}]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{781dfe5a-0602-4a54-8af6-1907f3bd7d89}\InprocServer32]
+@="C:\\COM\\dll\\server.dll"
+
